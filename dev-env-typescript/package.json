@@ -1,0 +1,15 @@
+{
+  "name": "dev-env-typescript",
+  "version": "0.0.0",
+  "description": "Development Environment for Typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ferreira Felipe",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^18.0.0",
+    "typescript": "^4.7.4"
+  }
+}
