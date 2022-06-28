@@ -1,2 +1,4 @@
 node_modules
 dist
+
+.docker/zsh/history/.zsh_history
