@@ -6,3 +6,5 @@ services:
     container_name: dev-env-typescript
     volumes:
       - .:/home/node/app
+    ports:
+      - '8229:9229'
